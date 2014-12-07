@@ -1,3 +1,29 @@
+/*2014 Environmental Performance Index (2014 EPI) - Backcasted Indicator Scores
+January 2014
+Yale  Center for Environmental Law and Policy (YCELP)/Yale University/Center for International Earth Science Information Network (CIESIN) /Columbia University
+****
+BELOW IS A TABLE OF CONTENTS SHOWING THE CODES USED
+***
+Child Mortality   CHMORT
+Household Air Quality   HAP
+Air Pollution - Average Exposure to PM2.5   PM25
+Air Pollution - PM2.5 Exceedance    PM25EXBL
+Access to Drinking Water    WATSUP
+Access to Sanitation    ACSAT
+Wastewater Treatment    WASTECXN
+Agricultural Subsidies  AGSUB
+Pesticide Regulation    POPS
+Change in Forest Cover  FORCH
+Coastal Shelf Fishing Pressure  TCEEZ
+Fish Stocks FSOC
+Terrestrial Protected Areas (National Biome Weights)    PACOVD
+Terrestrial Protected Areas (Global Biome Weights)  PACOVW
+Marine Protected Areas  MPAEEZ
+Critical Habitat Protection AZE
+Trend in Carbon Intensity   CO2GDPd1
+Change of Trend in Carbon Intensity CO2GDPd2
+Trend in CO2 Emissions per KWH  CO2KWH
+Access to Electricity   ACCESS*/
 [
   {
     "FIELD1":"code",

@@ -1,3 +1,5 @@
+//Wastewater Treatment (WASTECXN) - Percentage of anthropogenic wastewater that receives treatment (%)
+//Source: Malik, O. (2013). Global database of National Wastewater Treatment. New Haven, CT: Yale Center for Environmental Law & Policy.
 [
   {
     "FIELD1":"Wastewater Treatment (WASTECXN) - Percentage of anthropogenic wastewater that receives treatment (%)",
